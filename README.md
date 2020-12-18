@@ -2,6 +2,7 @@
 
 - Blog: [TOR SERVICE](http://XXXXXXXX.onion) | [CLEARNET PROXY](https://blog.r44cx.zil/)
 - Telegram: [@R44CX](https://t.me/)
+- Mail: [R44CX@R44CX.ZIL](mailto:R44CX@protonmail.com)
 - TORCHAT: [TOR SERVICE](http://XXXXXXXX.onion/r44cx) | [CLEARNET PROXY](https://proxy.r44cx.zil/r44cx)
 - Ethereum: `0x2e909eb300b132d05c698c514c380fcfa1a3d7cf`
 - Bitcoin: `175HPFEKAEfcTtdw4maNSNzmaX7ebkJ2L3`
