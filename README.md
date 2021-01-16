@@ -14,7 +14,7 @@
 <details><summary>:information_source:Wallets</summary>
 <p>
  
-#### :warning: Only transaction form these wallets are connected to me. :warning:
+#### :warning: Only transactions form these wallets are connected to me. :warning:
  
 ```python
 - Ethereum: `0x2e909eb300b132d05c698c514c380fcfa1a.....`
