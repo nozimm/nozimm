@@ -3,7 +3,7 @@
 
 - Blog: [CLEARNET PROXY](https:///)
 - Telegram: [@R44CX](https://t.me/)
-- Mail: [R44CX@R44CX.ZIL](mailto:R44CX@protonmail.com)
+- Mail: [R44CX@**********.COM](mailto:R44CX@protonmail.com)
 - TORCHAT: [CLEARNET PROXY](https://r44cx)
 
 
