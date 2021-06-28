@@ -1,10 +1,12 @@
 
 #### :information_source: Contact me
 
-- Blog: [CLEARNET PROXY](https:///)
-- Telegram: [@R44CX](https://t.me/)
+- Source: [CLEARNET](https://undefined)
+- Telegram: [@R44CX](https://t.me/r44cx)
 - Mail: [R44CX@**********.COM](mailto:R44CX@protonmail.com)
-- TORCHAT: [CLEARNET PROXY](https://r44cx)
+
+<details><summary>:information_source:TOR</summary>
+</details>
 
 
 
