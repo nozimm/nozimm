@@ -5,7 +5,7 @@
 - Telegram: [@R44CX](https://t.me/r44cx)
 - Mail: [R44CX@**********.COM](mailto:R44CX@protonmail.com)
 
-<details><summary>:information_source:TOR</summary>
+<details><summary>:information_source:Projects</summary>
 </details>
 
 
