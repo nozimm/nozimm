@@ -1,29 +1,6 @@
-
-#### :information_source: Contact me
-
-- Source: [CLEARNET](https://undefined)
-- Telegram: [@R44CX](https://t.me/r44cx)
-- Mail: [R44CX@**********.COM](mailto:R44CX@protonmail.com)
-
-<details><summary>:information_source:Projects</summary>
-</details>
-
-
-
-
-
-<details><summary>:information_source:Wallets</summary>
-<p>
- 
-#### :warning: Only transactions form these wallets are connected to me. :warning:
- 
-```python
-- Ethereum: `0x2e909eb300b132d05c698c514c380fcfa1a.....`
-
-- Bitcoin: `175HPFEKAEfcTtdw4maNSNzmaX7eb.....`
-
-- Monero: `88fjr4nBMxC9s28XyQ8KKQVPBRx7AMm5WFqVQfWxGcepZtx3oKSpcFDKuSuGuEr4MBFrr6fsExxksHPFEFJBAKXZSw.....`
- ```
- 
-</p>
-</details>
+### R44CX
+![Stats](https://metrics.lecoq.io/r44cx) <br>
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r44cx&layout=compact&langs_count=10) <br>
+![views](https://komarev.com/ghpvc/?username=r44cx)
+![follow me](https://img.shields.io/github/followers/r44cx?label=follow%20me&style=social)
+[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/r44cx) 
