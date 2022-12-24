@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://r44.cx">
-    <img src="https://raw.githubusercontent.com/r44cx/r44cx/main/R44cx.svg?sanitize=true">
+    <img src="https://raw.githubusercontent.com/r44cx/r44cx/main/R44cx.svg">
   </a>
 </div>
 
